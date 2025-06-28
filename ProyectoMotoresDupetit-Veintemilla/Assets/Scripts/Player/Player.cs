@@ -4,15 +4,33 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    [SerializeField] private float life = 100f;
+    [SerializeField] private float currentLife;
+
+    [SerializeField] private PlayerMovement playerMovement;
+    [SerializeField] private PlayerWeapon playerWeapon;
+
+    private void Start()
+    {
+        currentLife = life;
+    }
+
+    private void Update()
     {
         
     }
 
-    // Update is called once per frame
-    void Update()
+    public void TakeDmg(float dmg)
     {
-        
+        currentLife -= dmg;
+        if (currentLife <= 0)
+        {
+            Die();
+        }
+    }
+
+    private void Die()
+    {
+        Debug.Log("Jugador muerto");
     }
 }
