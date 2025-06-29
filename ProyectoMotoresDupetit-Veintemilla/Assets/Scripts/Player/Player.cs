@@ -2,35 +2,25 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Player : MonoBehaviour
+public class Player : MonoBehaviour, Idamageable
 {
-    [SerializeField] private float life = 100f;
-    [SerializeField] private float currentLife;
 
-    [SerializeField] private PlayerMovement playerMovement;
-    [SerializeField] private PlayerWeapon playerWeapon;
+    [SerializeField] private float _life = 100f;
+    [SerializeField] private PlayerMovement _playerMovement;
+    [SerializeField] private PlayerWeapon _playerWeapons;
 
-    private void Start()
+
+
+    public void TakeDamage(float dmg)
     {
-        currentLife = life;
-    }
-
-    private void Update()
-    {
-        
-    }
-
-    public void TakeDmg(float dmg)
-    {
-        currentLife -= dmg;
-        if (currentLife <= 0)
+        _life -= dmg;
+        if (_life <= 0)
         {
-            Die();
+            Debug.Log("Player died!");
         }
     }
-
-    private void Die()
-    {
-        Debug.Log("Jugador muerto");
-    }
 }
+
+
+
+
