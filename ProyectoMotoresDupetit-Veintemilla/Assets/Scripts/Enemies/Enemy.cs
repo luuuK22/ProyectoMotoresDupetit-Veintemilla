@@ -2,16 +2,35 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class Enemy : MonoBehaviour, Idamageable
+public abstract class Enemy : MonoBehaviour, IDamageable
 {
+  
     public float life;
     public float speed;
     [SerializeField] public Transform player;
 
+   
+    public delegate void EnemyDamaged(float currentLife);
+    public event EnemyDamaged OnEnemyDamaged;
+
+   
+    public delegate void EnemyDied();
+    public event EnemyDied OnEnemyDied;
+
     public void TakeDamage(float dmg)
     {
         life -= dmg;
-        if (life <= 0) Die();
+
+      
+        OnEnemyDamaged?.Invoke(life);
+
+        if (life <= 0)
+        {
+            Die();
+
+        
+            OnEnemyDied?.Invoke();
+        }
     }
 
     protected virtual void FollowPlayer()
@@ -22,6 +41,5 @@ public abstract class Enemy : MonoBehaviour, Idamageable
 
     protected abstract void Die();
 }
-  
-    
+
 

@@ -20,7 +20,7 @@ public class Shotgun : Weapons
 
             if (Physics.Raycast(fpsCam.transform.position, direction, out RaycastHit hit, range))
             {
-                Idamageable target = hit.collider.GetComponent<Idamageable>();
+                IDamageable target = hit.collider.GetComponent<IDamageable>();
                 if (target != null)
                     target.TakeDamage(dmg);
             }

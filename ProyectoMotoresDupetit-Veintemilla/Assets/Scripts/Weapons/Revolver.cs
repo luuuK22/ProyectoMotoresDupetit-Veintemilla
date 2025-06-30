@@ -9,7 +9,7 @@ public class Revolver : Weapons
         Ray ray = fpsCam.ViewportPointToRay(new Vector3(0.5f, 0.5f, 0));
         if (Physics.Raycast(ray, out RaycastHit hit, range))
         {
-            Idamageable target = hit.collider.GetComponent<Idamageable>();
+            IDamageable target = hit.collider.GetComponent<IDamageable>();
             if (target != null)
                 target.TakeDamage(dmg);
         }

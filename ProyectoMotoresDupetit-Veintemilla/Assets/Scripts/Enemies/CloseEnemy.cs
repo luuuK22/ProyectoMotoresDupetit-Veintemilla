@@ -5,11 +5,22 @@ using UnityEngine;
 public class CloseEnemy : Enemy
 {
 
+  
+    public float stopDistance = 1.5f;
+
     void Update()
     {
-        FollowPlayer();
-        if (Vector3.Distance(transform.position, player.position) < 2f)
-            player.GetComponent<Idamageable>().TakeDamage(10);
+        
+        if (Vector3.Distance(transform.position, player.position) > stopDistance)
+        {
+            FollowPlayer();
+        }
+
+        
+        if (Vector3.Distance(transform.position, player.position) <= stopDistance + 0.5f)
+        {
+            player.GetComponent<IDamageable>().TakeDamage(10);
+        }
     }
 
     protected override void Die()
@@ -17,5 +28,7 @@ public class CloseEnemy : Enemy
         Destroy(gameObject);
     }
 }
+
+
 
 

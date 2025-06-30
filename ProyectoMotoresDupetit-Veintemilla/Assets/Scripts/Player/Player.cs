@@ -1,8 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class Player : MonoBehaviour, Idamageable
+public class Player : MonoBehaviour, IDamageable
 {
 
     [SerializeField] private float _life = 100f;
@@ -16,7 +17,7 @@ public class Player : MonoBehaviour, Idamageable
         _life -= dmg;
         if (_life <= 0)
         {
-            Debug.Log("Player died!");
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
     }
 }
