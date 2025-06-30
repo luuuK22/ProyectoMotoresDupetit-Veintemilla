@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// TP2 - MATEO DUPETIT
+
 public class Revolver : Weapons
 {
     public override void Shoot()

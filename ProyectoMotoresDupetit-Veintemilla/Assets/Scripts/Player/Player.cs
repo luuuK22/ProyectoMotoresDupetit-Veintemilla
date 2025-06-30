@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+
+//TP2 - LUCA VEINTEMILLA
+
 public class Player : MonoBehaviour, IDamageable
 {
 
