@@ -17,7 +17,7 @@ public class DistanceEnemy : Enemy
 
     void Update()
     {
-        float distanceToPlayer = Vector3.Distance(transform.position, player.position);
+        float distanceToPlayer = Vector3.Distance(transform.position, player.transform.position);
 
         
         if (distanceToPlayer > stopDistance)
@@ -46,7 +46,7 @@ public class DistanceEnemy : Enemy
         );
 
         Rigidbody rb = bullet.GetComponent<Rigidbody>();
-        rb.velocity = (player.position - shootPoint.position).normalized * 10f;
+        rb.velocity = (player.transform.position - shootPoint.position).normalized * 10f;
     }
 
     protected override void Die()

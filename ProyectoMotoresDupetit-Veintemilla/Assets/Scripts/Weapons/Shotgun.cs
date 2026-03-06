@@ -8,9 +8,11 @@ public class Shotgun : Weapons
 {
     public int pellets = 6;
     public float spread = 0.05f;
-
+    
     public override void Shoot()
     {
+        
+
         for (int i = 0; i < pellets; i++)
         {
             Vector3 direction = fpsCam.transform.forward;
@@ -27,11 +29,12 @@ public class Shotgun : Weapons
                     target.TakeDamage(dmg);
             }
         }
+        
     }
 
     public override void Reload()
     {
-        Debug.Log("Reloading Shotgun...");
+        Debug.Log("Recargando");
     }
 }
 

@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 //TP2 - LUCA VEINTEMILLA
 
@@ -9,6 +10,8 @@ public class PlayerWeapon : MonoBehaviour
 
     [SerializeField] private int _actualWeapon;
     [SerializeField] private List<Weapons> weapons = new List<Weapons>();
+    [SerializeField] private AudioSource _shoot;
+    [SerializeField] private List<RawImage> weaponCrosshairs = new List<RawImage>();
 
     void Update()
     {
@@ -24,6 +27,8 @@ public class PlayerWeapon : MonoBehaviour
     public void WeaponShoot()
     {
         weapons[_actualWeapon].Shoot();
+        _shoot.Play();
+
     }
 
     public void Reload()
@@ -70,11 +75,19 @@ public class PlayerWeapon : MonoBehaviour
         for (int i = 0; i < weapons.Count; i++)
         {
             if (weapons[i] != null)
-            {
                 weapons[i].gameObject.SetActive(i == indexToActivate);
-            }
+        }
+
+        for (int i = 0; i < weaponCrosshairs.Count; i++)
+        {
+            if (weaponCrosshairs[i] != null)
+                weaponCrosshairs[i].enabled = (i == indexToActivate);
+            else
+                weaponCrosshairs[i].enabled = false;
         }
     }
+
+
 
 }
 

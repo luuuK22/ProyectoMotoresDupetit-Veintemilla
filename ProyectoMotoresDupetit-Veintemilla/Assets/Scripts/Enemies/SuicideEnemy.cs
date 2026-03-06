@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// TP2 - LUCA VEINTEMILLA
+
 public class SuicideEnemy : Enemy
 {
  
@@ -12,7 +14,7 @@ public class SuicideEnemy : Enemy
     void Update()
     {
         FollowPlayer();
-        if (Vector3.Distance(transform.position, player.position) < 1.5f)
+        if (Vector3.Distance(transform.position, player.transform.position) < 1.5f)
         {
             Explode();
         }

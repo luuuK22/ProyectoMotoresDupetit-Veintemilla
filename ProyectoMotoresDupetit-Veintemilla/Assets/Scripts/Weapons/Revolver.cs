@@ -6,6 +6,7 @@ using UnityEngine;
 
 public class Revolver : Weapons
 {
+    
     public override void Shoot()
     {
         Ray ray = fpsCam.ViewportPointToRay(new Vector3(0.5f, 0.5f, 0));
@@ -15,6 +16,7 @@ public class Revolver : Weapons
             if (target != null)
                 target.TakeDamage(dmg);
         }
+        
     }
 
     public override void Reload()

@@ -4,27 +4,52 @@ using UnityEngine;
 
 public class PlayerLook : MonoBehaviour
 {
-   
-    public float mouseSensitivity = 100f;
-    public Transform playerBody;
 
-    private float xRotation = 0f;
+    [SerializeField] private Camera playerCamera;
+    [SerializeField] private float lookSpeed = 2f;
+    [SerializeField] private float lookXLimit = 45f;
 
-    void Start()
+    private float rotationX;
+    private bool canLook = true;
+
+    private void Start()
     {
         Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
+    }
+
+    void Awake()
+    {
+        if (playerCamera == null)
+            playerCamera = Camera.main;
+
+
+        rotationX = playerCamera.transform.localEulerAngles.x;
+        if (rotationX > 180f) rotationX -= 360f;
     }
 
     void Update()
     {
-        float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity * Time.deltaTime;
-        float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity * Time.deltaTime;
+        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+        Debug.DrawRay(ray.origin, ray.direction, Color.blue);
+        if (!canLook) return;
 
-        xRotation -= mouseY;
-        xRotation = Mathf.Clamp(xRotation, -90f, 90f);
+        float mouseX = Input.GetAxis("Mouse X") * lookSpeed;
+        float mouseY = Input.GetAxis("Mouse Y") * lookSpeed;
 
-        transform.localRotation = Quaternion.Euler(xRotation, 0f, 0f);
-        playerBody.Rotate(Vector3.up * mouseX);
+        rotationX += -mouseY;
+        rotationX = Mathf.Clamp(rotationX, -lookXLimit, lookXLimit);
+
+        playerCamera.transform.localRotation = Quaternion.Euler(rotationX, 0f, 0f);
+        transform.rotation *= Quaternion.Euler(0f, mouseX, 0f);
+    }
+
+    public void SetCanLook(bool value) => canLook = value;
+
+    public void SyncFromCamera()
+    {
+        rotationX = playerCamera.transform.localEulerAngles.x;
+        if (rotationX > 180f) rotationX -= 360f;
     }
 }
 

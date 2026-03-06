@@ -12,14 +12,14 @@ public class CloseEnemy : Enemy
 
     void Update()
     {
-        
-        if (Vector3.Distance(transform.position, player.position) > stopDistance)
+
+        if (Vector3.Distance(transform.position, player.transform.position) > stopDistance)
         {
             FollowPlayer();
         }
 
         
-        if (Vector3.Distance(transform.position, player.position) <= stopDistance + 0.5f)
+        if (Vector3.Distance(transform.position, player.transform.position) <= stopDistance + 0.5f)
         {
             player.GetComponent<IDamageable>().TakeDamage(10);
         }
