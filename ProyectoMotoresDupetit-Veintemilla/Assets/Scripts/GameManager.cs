@@ -5,6 +5,8 @@ using UnityEngine;
 using UnityEngine.SocialPlatforms.Impl;
 using UnityEngine.UI;
 
+// TPFINAL  - LUCA VEINTEMILLA
+
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance { get; private set; }

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// TP2 - LUCA VEINTEMILLA
+// TPFinal - MATEO DUPETIT
 public abstract class Enemy : MonoBehaviour, IDamageable
 {
   
@@ -10,7 +10,9 @@ public abstract class Enemy : MonoBehaviour, IDamageable
     public float speed;
 
     
+
    
+
     public delegate void EnemyDamaged(float currentLife);
     public event EnemyDamaged OnEnemyDamaged;
 
@@ -30,9 +32,11 @@ public abstract class Enemy : MonoBehaviour, IDamageable
 
         if (life <= 0)
         {
+           
             Die();
 
-        
+            
+
             OnEnemyDied?.Invoke();
         }
     }
@@ -42,7 +46,7 @@ public abstract class Enemy : MonoBehaviour, IDamageable
         if (player == null)
         {
             player = GameManager.Instance.PlayerRef;
-            if (player == null) return; // Evita errores si sigue sin existir
+            if (player == null) return; 
         }
         transform.position = Vector3.MoveTowards(transform.position, player.transform.position, speed * Time.deltaTime);
     }
@@ -58,7 +62,7 @@ public abstract class Enemy : MonoBehaviour, IDamageable
         {
             player = GameManager.Instance.PlayerRef;
         }
-        // Aquí puedes llamar a FollowPlayer() si lo necesitas
+       
     }
 
     protected abstract void Die();

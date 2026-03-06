@@ -3,60 +3,80 @@
   "WorkspaceRootPath": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|d:\\proyectomotoresdupetit-veintemilla\\proyectomotoresdupetit-veintemilla\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\weapons\\shotgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\shotgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\weapons\\revolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\revolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\enemies\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\enemies\\closeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\closeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\powerups\\powerups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerups\\powerups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\enemies\\suicideenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\suicideenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\enemies\\distanceenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\distanceenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\player\\playerweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|d:\\proyectomotoresdupetit-veintemilla\\proyectomotoresdupetit-veintemilla\\assets\\scripts\\weapons\\weapondictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weapondictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\weapons\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\weapons\\weapondictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weapondictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\enemies\\distanceenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\distanceenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\enemies\\suicideenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\suicideenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\enemies\\closeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\closeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\player\\playerlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|d:\\proyectomotoresdupetit-veintemilla\\proyectomotoresdupetit-veintemilla\\assets\\scripts\\interfaces\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfaces\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\weapons\\shotgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\shotgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\player\\playerweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\weapons\\revolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\revolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\enemies\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\powerups\\powerups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerups\\powerups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\powerups\\powerrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerups\\powerrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\enemies\\enemysp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemysp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\powerups\\powerjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerups\\powerjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,176 +86,254 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\Bullet.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Bullet.cs",
-              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\Bullet.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Bullet.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-06-29T23:22:08.026Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CloseEnemy.cs",
-              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\CloseEnemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\CloseEnemy.cs",
-              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\CloseEnemy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\CloseEnemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-06-29T23:22:07.37Z"
+              "Title": "IDamageable.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Interfaces\\IDamageable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaces\\IDamageable.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Interfaces\\IDamageable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interfaces\\IDamageable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T05:43:12.222Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PowerUps.cs",
-              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\PowerUps\\PowerUps.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PowerUps\\PowerUps.cs",
-              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\PowerUps\\PowerUps.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PowerUps\\PowerUps.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-06-29T20:19:21.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SuicideEnemy.cs",
-              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\SuicideEnemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\SuicideEnemy.cs",
-              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\SuicideEnemy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\SuicideEnemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-06-29T20:19:21.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DistanceEnemy.cs",
-              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\DistanceEnemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\DistanceEnemy.cs",
-              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\DistanceEnemy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\DistanceEnemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-06-29T20:19:21.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 16,
               "Title": "Enemy.cs",
               "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Enemy.cs",
               "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\Enemy.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\Enemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-06-29T20:19:21.551Z"
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:21.551Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
+              "Title": "EnemySp.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\EnemySp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemySp.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\EnemySp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemySp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T04:57:57.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PowerJump.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\PowerUps\\PowerJump.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PowerUps\\PowerJump.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\PowerUps\\PowerJump.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PowerUps\\PowerJump.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T03:29:47.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PowerRun.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\PowerUps\\PowerRun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PowerUps\\PowerRun.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\PowerUps\\PowerRun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PowerUps\\PowerRun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T03:25:10.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PowerUps.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\PowerUps\\PowerUps.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PowerUps\\PowerUps.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\PowerUps\\PowerUps.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PowerUps\\PowerUps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:21.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T23:41:01.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Bullet.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T23:22:08.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CloseEnemy.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\CloseEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\CloseEnemy.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\CloseEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\CloseEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T23:22:07.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SuicideEnemy.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\SuicideEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\SuicideEnemy.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\SuicideEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\SuicideEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:21.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DistanceEnemy.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\DistanceEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\DistanceEnemy.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\DistanceEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\DistanceEnemy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:21.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PlayerWeapon.cs",
               "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Player\\PlayerWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerWeapon.cs",
               "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Player\\PlayerWeapon.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerWeapon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-06-29T20:19:21.552Z"
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:21.552Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Player.cs",
               "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Player\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
               "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Player\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T22:09:39.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Revolver.cs",
               "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Weapons\\Revolver.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Revolver.cs",
               "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Weapons\\Revolver.cs",
               "RelativeToolTip": "Assets\\Scripts\\Weapons\\Revolver.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-06-29T20:19:21.545Z"
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:21.545Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Shotgun.cs",
               "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Weapons\\Shotgun.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Shotgun.cs",
               "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Weapons\\Shotgun.cs",
               "RelativeToolTip": "Assets\\Scripts\\Weapons\\Shotgun.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-06-29T20:19:21.544Z"
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:21.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
               "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-06-27T22:06:04.804Z"
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T22:06:04.804Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "Weapons.cs",
               "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Weapons\\Weapons.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapons.cs",
               "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Weapons\\Weapons.cs",
               "RelativeToolTip": "Assets\\Scripts\\Weapons\\Weapons.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-06-29T20:19:21.546Z"
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:21.546Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "WeaponDictionary.cs",
               "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Weapons\\WeaponDictionary.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WeaponDictionary.cs",
               "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Weapons\\WeaponDictionary.cs",
               "RelativeToolTip": "Assets\\Scripts\\Weapons\\WeaponDictionary.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-06-29T20:19:26.919Z"
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:26.919Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "PlayerLook.cs",
               "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Player\\PlayerLook.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerLook.cs",
               "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Player\\PlayerLook.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerLook.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-06-29T20:19:21.554Z"
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:21.554Z",
+              "EditorCaption": ""
             }
           ]
         }

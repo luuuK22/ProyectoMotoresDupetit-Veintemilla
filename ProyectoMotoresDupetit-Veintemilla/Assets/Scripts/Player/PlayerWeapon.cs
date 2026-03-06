@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-//TP2 - LUCA VEINTEMILLA
+//TP FINAL - LUCA VEINTEMILLA
 
 public class PlayerWeapon : MonoBehaviour
 {

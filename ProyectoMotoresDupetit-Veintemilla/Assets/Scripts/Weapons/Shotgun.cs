@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// TP2 - MATEO DUPETIT
+// TPFINAL - MATEO DUPETIT
 
 public class Shotgun : Weapons
 {

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// TP2 - MATEO DUPETIT
+// TP FINAL - MATEO DUPETIT
 
 public class Revolver : Weapons
 {
@@ -21,7 +21,7 @@ public class Revolver : Weapons
 
     public override void Reload()
     {
-        Debug.Log("Reloading Revolver...");
+        Debug.Log("recargando");
     }
 }
 

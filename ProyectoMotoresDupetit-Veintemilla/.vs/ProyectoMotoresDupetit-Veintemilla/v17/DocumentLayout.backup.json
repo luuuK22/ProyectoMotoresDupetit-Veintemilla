@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\weapons\\weapondictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weapondictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\weapons\\revolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\revolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\weapons\\shotgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\shotgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\enemies\\distanceenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\distanceenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\player\\playerweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\powerups\\powerups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerups\\powerups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\powerups\\powerrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerups\\powerrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\powerups\\powerjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerups\\powerjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\enemies\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\weapons\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|d:\\proyectomotoresdupetit-veintemilla\\proyectomotoresdupetit-veintemilla\\assets\\scripts\\enemies\\enemysp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemysp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\enemies\\closeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\closeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\player\\playerlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\assets\\scripts\\enemies\\suicideenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4064B184-7ABA-551C-D227-9425D3CE31FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\suicideenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnemySp.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\EnemySp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemySp.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\EnemySp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemySp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T04:57:57.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PowerJump.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\PowerUps\\PowerJump.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PowerUps\\PowerJump.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\PowerUps\\PowerJump.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PowerUps\\PowerJump.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T03:29:47.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PowerRun.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\PowerUps\\PowerRun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PowerUps\\PowerRun.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\PowerUps\\PowerRun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PowerUps\\PowerRun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T03:25:10.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PowerUps.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\PowerUps\\PowerUps.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PowerUps\\PowerUps.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\PowerUps\\PowerUps.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PowerUps\\PowerUps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:21.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T23:41:01.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Bullet.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T23:22:08.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CloseEnemy.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\CloseEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\CloseEnemy.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\CloseEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\CloseEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T23:22:07.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SuicideEnemy.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\SuicideEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\SuicideEnemy.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\SuicideEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\SuicideEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:21.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DistanceEnemy.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\DistanceEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\DistanceEnemy.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\DistanceEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\DistanceEnemy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:21.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Enemy.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Enemies\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:21.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerWeapon.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Player\\PlayerWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerWeapon.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Player\\PlayerWeapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:21.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T22:09:39.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Revolver.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Weapons\\Revolver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Revolver.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Weapons\\Revolver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Revolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:21.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shotgun.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Weapons\\Shotgun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Shotgun.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Weapons\\Shotgun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Shotgun.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:21.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T22:06:04.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Weapons.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Weapons\\Weapons.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapons.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Weapons\\Weapons.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Weapons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:21.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeaponDictionary.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Weapons\\WeaponDictionary.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WeaponDictionary.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Weapons\\WeaponDictionary.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\WeaponDictionary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:26.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerLook.cs",
+              "DocumentMoniker": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Player\\PlayerLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerLook.cs",
+              "ToolTip": "D:\\ProyectoMotoresDupetit-Veintemilla\\ProyectoMotoresDupetit-Veintemilla\\Assets\\Scripts\\Player\\PlayerLook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerLook.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvzQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:19:21.554Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

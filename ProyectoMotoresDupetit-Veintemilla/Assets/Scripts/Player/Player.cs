@@ -4,8 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 
-//TP2 - LUCA VEINTEMILLA
-
+//TP FINAL - LUCA VEINTEMILLA 
 public class Player : MonoBehaviour, IDamageable
 {
 

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-// TP2 - MATEO DUPETIT
+// TPFINAL  - LUCA VEINTEMILLA
 
 [RequireComponent(typeof(CharacterController))]
 public class PlayerMovement : MonoBehaviour
@@ -15,12 +15,9 @@ public class PlayerMovement : MonoBehaviour
     public float jumpPower;
     public float gravity;
 
-    public float defaultHeight;
-    public float crouchHeight;
-    public float crouchSpeed;
+ 
 
-    private float standSpeed;
-    private float runStandSpeed;
+ 
 
     private Vector3 moveDirection = Vector3.zero;
     private CharacterController characterController;
@@ -29,8 +26,7 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         characterController = GetComponent<CharacterController>();
-        standSpeed = walkSpeed;
-        runStandSpeed = runSpeed;
+       
     }
 
     void OnEnable()
@@ -72,22 +68,35 @@ public class PlayerMovement : MonoBehaviour
         if (!characterController.isGrounded)
             moveDirection.y -= gravity * Time.deltaTime;
 
-        if (Input.GetKey(KeyCode.LeftControl) && canMove)
-        {
-            characterController.height = crouchHeight;
-            walkSpeed = crouchSpeed;
-            runSpeed = crouchSpeed;
-        }
-        else
-        {
-            characterController.height = defaultHeight;
-            walkSpeed = standSpeed;
-            runSpeed = runStandSpeed;
-        }
+        
 
         characterController.Move(moveDirection * Time.deltaTime);
 
     }
+
+
+
+    public IEnumerator SpeedBoost(float multiplier, float duration)
+    {
+        runSpeed *= multiplier;
+        walkSpeed *= multiplier;
+
+        yield return new WaitForSeconds(duration);
+
+        runSpeed /= multiplier;
+        walkSpeed /= multiplier;
+    }
+
+    public IEnumerator JumpBoost(float multiplier, float duration)
+    {
+        jumpPower *= multiplier;
+
+        yield return new WaitForSeconds(duration);
+
+        jumpPower /= multiplier;
+    }
+
+
 }
 
 
